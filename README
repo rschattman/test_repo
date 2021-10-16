@@ -1,3 +1,6 @@
 This is a line from R Studio
+<<<<<<< HEAD
 This is another line from R Studio
 Another line
+=======
+>>>>>>> b81082a2b52d63a245c30688f9a4d64e61a2df47
